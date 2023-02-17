@@ -1,0 +1,9 @@
+{
+  "mainPageHeader": "Main Page",
+  "welcomeDescription": "This is a demo app for multi-language website with React Context API",
+  "title": "Something about me!",
+  "aboutMe": "My name is Robert Downey Jr. I am a Billionaire, Philanthropist and the most importantly, The Iron Man",
+  "movieName": "Avengers : Infinity War",
+  "movieDescription": "This movie is based on alien invasion who wants to eradicate half of universe!!!",
+  "rating": "5 stars"
+}
